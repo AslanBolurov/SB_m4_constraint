@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintExample</string>
+    <string name="tvArtist">Artist</string>
+    <string name="tvCompositionName">Composition name</string>
+</resources>
